@@ -32,7 +32,8 @@ This project provides a Power BI dashboard that visualizes sales data using char
 ---
 
 ## 📷 Dashboard Preview
-(Add your dashboard screenshot here)
+<img width="1163" height="655" alt="image" src="https://github.com/user-attachments/assets/86fe899a-8769-4587-a049-33f50a98afb7" />
+
 
 ---
 
